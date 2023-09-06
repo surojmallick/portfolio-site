@@ -222,7 +222,7 @@ header .navbar ul li a:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 .home .content h2 {
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 800;
   color: #002057;
 }
@@ -283,10 +283,10 @@ header .navbar ul li a:hover {
 }
 .socials .social-icons li {
   display: inline-block;
-  margin-bottom: 14px;
+  margin-bottom: 17px;
 }
 .social-icons a {
-  font-size: 2rem;
+  font-size: 3rem;
   display: inline-block;
   line-height: 44px;
   color: #00d9ff;
